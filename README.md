@@ -8,7 +8,7 @@
 
 
 <p align="center">
-    <img src="img/dns.png" alt="DNS Spoofing">
+    <img src="img/dns.png" alt="DNS Spoofing" width=400 height=600>
 </p>
 
 <p id="description"> dns-spoofer is a Python program designed to perform DNS spoofing by modifying DNS reply packets using the NetfilterQueue module in Python. It intercepts outgoing DNS packets, modifies them to redirect the requested domain to a user-specified IP address, and then forwards them to the intended recipient.
